@@ -1,2 +1,7 @@
 # Locus-Codejam-2019
-Solutions of the IOE Locus-Codejam 2019 in python.
+This repo contains well commented python solutions for the problems of Locus Codejam 2019.</br>
+The problems were taken from [Codeforces](https://codeforces.com).</br>
+**Problems:**
+  *  [Lucky Division](http://codeforces.com/problemset/problem/122/A)
+  *  [Key races](http://codeforces.com/problemset/problem/835/A)
+  *  [Lucky Year](http://codeforces.com/problemset/problem/808/A)
