@@ -1,6 +1,7 @@
 # Locus-Codejam-2019
 This repo contains well commented python solutions for the problems of Locus Codejam 2019.</br>
-The problems were taken from [Codeforces](https://codeforces.com).</br>
+>The problems were taken from [Codeforces](https://codeforces.com).</br></br>
+
 **Problems:**
 
   *  [Key races](http://codeforces.com/problemset/problem/835/A)
